@@ -2,7 +2,7 @@
   "name": "sd-0x-exercise-welcome-node",
   "version": "1.0.0",
   "description": "# Exercícios",
-  "main": "src/index.js",
+  "main": "src/server.js",
   "scripts": {
     "dev": "nodemon .",
     "test": "jest --runInBand"
