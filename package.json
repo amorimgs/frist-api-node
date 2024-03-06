@@ -5,6 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon .",
+    "start": "node .",
     "test": "jest --runInBand"
   },
   "repository": {
